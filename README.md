@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Greg Besson</h1>
 <h3 align="center">A passionate CTO and multi-techno developer from France</h3>
 
-- :shopping: I'm currently working on **shopify-app-starter** // https://github.com/gregorybesson/shopify-app-starter
-- :fountain_pen: I’m currently working on **AbeCMS** // **https://github.com/abecms/abecms**
+- :shopping:  I'm currently working on **shopify-app-starter** // https://github.com/gregorybesson/shopify-app-starter
+- :fountain_pen:  I’m currently working on **AbeCMS** // **https://github.com/abecms/abecms**
 
-- �:basket: I’m currently working on **Playground** // **https://github.com/gregorybesson/playground**
+- :basket:  I’m currently working on **Playground** // **https://github.com/gregorybesson/playground**
 
-- 🌱 I’m currently working on  **Stickers**
+- 🌱  I’m currently working on  **Stickers**
 
-- 📫 How to reach me **bessong@gmail.com**
+- 📫  How to reach me **bessong@gmail.com**
 
 ## My GitHub Stats
 
