@@ -1,24 +1,10 @@
-<!--
-**John8790909/John8790909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Greg Besson</h1>
 <h3 align="center">A passionate CTO and multi-techno developer from France</h3>
 
-- 🔭 I’m currently working on **AbeCMS** // **https://github.com/abecms/abecms**
+- :shopping: I'm currently working on **shopify-app-starter** // https://github.com/gregorybesson/shopify-app-starter
+- :fountain_pen: I’m currently working on **AbeCMS** // **https://github.com/abecms/abecms**
 
-- 🔭 I’m currently working on **Playground** // **https://github.com/gregorybesson/playground**
+- �:basket: I’m currently working on **Playground** // **https://github.com/gregorybesson/playground**
 
 - 🌱 I’m currently working on  **Stickers**
 
