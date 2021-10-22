@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Greg Besson</h1>
 <h3 align="center">A passionate CTO and multi-techno developer from France</h3>
 
+- :studio_microphone: punchline.club is on the raise ! A poly-techno project (SwiftUI / Node / React) which rocks
 - :shopping:  I'm currently working on **shopify-app-starter** // https://github.com/gregorybesson/shopify-app-starter
 - :fountain_pen:  I’m currently working on **AbeCMS** // **https://github.com/abecms/abecms**
-
 - :basket:  I’m currently working on **Playground** // **https://github.com/gregorybesson/playground**
-
 - 🌱  I’m currently working on  **Stickers**
-
 - 📫  How to reach me **bessong@gmail.com**
 
 ## My GitHub Stats
